@@ -1,1 +1,1 @@
-# 40-day-ml-bootcamp
+# DAY 1-Numpy Foundations
